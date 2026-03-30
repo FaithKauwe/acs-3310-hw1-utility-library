@@ -1,2 +1,6 @@
 requirements.md
 classpractice.ts
+node_modules/
+dist/
+
+

@@ -1,0 +1,26 @@
+{
+  "name": "hw1-utility-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaithKauwe/acs-3310-hw1-utility-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FaithKauwe/acs-3310-hw1-utility-library/issues"
+  },
+  "homepage": "https://github.com/FaithKauwe/acs-3310-hw1-utility-library#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.2"
+  }
+}
