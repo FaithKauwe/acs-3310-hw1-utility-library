@@ -1,0 +1,5 @@
+export { chunk } from './chunk'
+export { groupBy } from './groupBy'
+export { partition } from './partition'
+export { uniqueBy } from './uniqueBy'
+export { flatten } from './flatten'
